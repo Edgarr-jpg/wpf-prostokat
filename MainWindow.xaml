@@ -8,14 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid Background="#FFC1C1C1">
 
-        <Label Content="Bok" x:Name="lblBok"
-            HorizontalAlignment="Left"
-            Margin="18,10,0,0"
-            VerticalAlignment="Top"></Label>
-        <Label Content="Bok2" x:Name="lblBok2"
-            HorizontalAlignment="Left"
-            Margin="207,10,0,0"
-            VerticalAlignment="Top"></Label>
+        <Label Content="Bok" x:Name="lblBok" HorizontalAlignment="Left" Margin="18,10,0,0" VerticalAlignment="Top"></Label>
+        <Label Content="Bok2" x:Name="lblBok2" HorizontalAlignment="Left" Margin="207,10,0,0" VerticalAlignment="Top"></Label>
         <Label Content="Pole" HorizontalAlignment="Left" Margin="18,41,0,0" VerticalAlignment="Top"></Label>
         <Label Content="Obwód" HorizontalAlignment="Left" Margin="18,72,0,0" VerticalAlignment="Top"></Label>
         <TextBox x:Name="txtBok" HorizontalAlignment="Left" Margin="82,14,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="txtBok_TextChanged"></TextBox>
