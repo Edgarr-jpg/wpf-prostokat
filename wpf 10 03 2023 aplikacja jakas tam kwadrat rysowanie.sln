@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf 10 03 2023 aplikacja jakas tam kwadrat rysowanie", "wpf 10 03 2023 aplikacja jakas tam kwadrat rysowanie.csproj", "{95507ED7-882B-4FF9-AB0F-C989B308FDCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95507ED7-882B-4FF9-AB0F-C989B308FDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95507ED7-882B-4FF9-AB0F-C989B308FDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95507ED7-882B-4FF9-AB0F-C989B308FDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95507ED7-882B-4FF9-AB0F-C989B308FDCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7F42F39-E5B5-4851-AC24-5755078B8917}
+	EndGlobalSection
+EndGlobal
